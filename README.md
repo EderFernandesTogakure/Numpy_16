@@ -1,7 +1,7 @@
 # conceitos introdutorios de python com a biblioteca numpy - Aula 15
 Nesta decima terceira aula pode ser visto no link do Youtube abaixo
 
-https://youtu.be/Ngno9DTf0tM
+https://youtu.be/e0npPAe0zac
 
 A playlist de todas as aulas esta no link abaixo.
 
